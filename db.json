@@ -1,14 +1,11 @@
 {
-  "test": {
-    "hello": "world"
-  },
-  "search": [
+  "searchLIN": [
     {
-      "id": 123456789012,
+      "LIN": 123456789012,
       "person": "Alexander Nagelberg"
     },
     {
-      "id": 234567890123,
+      "LIN": 234567890123,
       "person": "Sandip"
     }
   ]
